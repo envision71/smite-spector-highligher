@@ -1,0 +1,4 @@
+tk==8.6 
+moviepy==1.0.3 
+opencv-python==4.5.5 
+numpy==1.22.1
