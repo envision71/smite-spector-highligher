@@ -4,7 +4,6 @@ from tkinter import filedialog
 from tkinter.messagebox import showinfo
 from tkinter.ttk import Progressbar
 from proglog import ProgressBarLogger, TqdmProgressBarLogger
-from Screen_Cap import screen_record as screen
 from moviepy.editor import*
 import cv2 as cv
 import numpy as np
